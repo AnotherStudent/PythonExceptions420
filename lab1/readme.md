@@ -1,1 +1,34 @@
-
+# json
+```json
+{
+	"signature":"com.github.anotherstudent.json-example-signateure",
+	"items":[
+		{
+			"lang":"C",
+			"isNative":true,
+			"isOOP":false,
+			"isEasy":false
+		},
+		{
+			"lang":"C++",
+			"isNative":true,
+			"isOOP":true,
+			"isEasy":false
+		},
+		{
+			"lang":"Python",
+			"isNative":false,
+			"isOOP":true,
+			"isEasy":true
+		},
+		{
+			"lang":"Delphi",
+			"isNative":true,
+			"isOOP":true,
+			"isEasy":true
+		}
+	]
+}
+```
+# screenshot
+![scr](scr.png)
