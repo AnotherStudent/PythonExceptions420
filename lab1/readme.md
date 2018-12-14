@@ -31,4 +31,4 @@
 }
 ```
 # screenshot
-![scr.png](scr.png)
+![lab1/scr.png](lab1/scr.png)
